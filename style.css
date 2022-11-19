@@ -1,0 +1,106 @@
+body{
+    background-color: #E5D9B6;
+}
+
+.top-section {
+    background-color: #E5D9B6;
+    height: 150px;
+
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: #285430 ;
+}
+
+.header-navbar a {
+    margin-left: 20px;
+    font-size: larger;
+    text-decoration: none;
+    padding: 6px;
+    background-color: #5F8D4E;
+    border: 1px solid #A4BE7B;
+    border-radius: 10px;
+    display: inline-block;
+    width: 67px;
+    text-align: center;
+}
+.header-navbar a:hover{
+    background-color: #A4BE7B;
+}
+
+.middle-section{
+    text-align: center;
+}
+
+.course-purchase{
+    display: inline-block;
+    width: 200px;
+    background-color:#A4BE7B;
+    padding: 10px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.price{
+    display: inline-block;
+    margin: 10px;
+    border: 1px solid #A4BE7B;
+    background-color: #5F8D4E;
+    padding: 7px;
+    font-size: 29px;
+    color: white;
+    border-radius: 64px;
+
+}
+
+.course-purchase a{
+    text-decoration: none;
+    font-size: larger;
+    background-color: #285430;
+    padding: 5px;
+    border-radius: 7px;
+    display: inline-block;
+    width: 76px;
+    color: white;
+}
+.course-purchase a:hover{
+    color: #285430;
+    background-color: #E5D9B6;
+
+}
+
+.social-media{
+
+    text-align: center;
+
+}
+.bottom-section{
+    margin-top: 30px;
+    background-color: #E5D9B6;
+    width: 100%;
+    
+}
+.social-media{
+
+    margin-bottom:  10px;
+}
+
+.social-media a{
+    margin-left: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #5F8D4E;
+
+}
+
+.copy{
+    text-align: center;
+    
+}
+
+hr{
+    width: 5%;
+    text-align: center;
+    border-top: 7px dotted #A4BE7B;
+    margin-top: 20px;
+}
